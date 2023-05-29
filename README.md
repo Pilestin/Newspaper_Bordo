@@ -1,2 +1,4 @@
 # Newspaper_Bordo
-Bordo Deeploy Project
+
+Bu proje Bordo Bilişim Developer Challange için yapılmaktadır (Staj)
+
