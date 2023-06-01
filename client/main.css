@@ -2,3 +2,62 @@ body {
   padding: 10px;
   font-family: sans-serif;
 }
+
+.son_dakika{
+    
+  background-color: rgb(196, 31, 31);
+  border-radius: 5px;
+  height: 80px;
+}
+
+.breaking{
+  position: relative;
+  border-radius: 5px;
+  background-color: white;
+  height: 40px;
+  top: 40%;
+  left: 50%;
+  color: white;
+  font-size: 20px;
+  color: rgb(252, 43, 43);
+  padding: 10px;
+  text-align: center;
+  align-self: center;
+}
+.son_dakika_text{
+  position: relative;
+  bottom: 30%;
+}
+.kk {
+  position: relative;
+  top: 50%;
+  color: white;
+  font-size: 18px;
+  color: rgb(227, 221, 221);
+  text-align: center;
+  align-self: center;
+}
+.daha_fazla{
+  border-color: red; 
+  color:red
+}
+.flex-container {
+  display: flex;
+  list-style: none;
+  padding: 0;
+}
+
+.flex-container li {
+margin-right: 10px;
+
+}
+
+footer{
+  height:300px ;
+  color:aliceblue;
+  background-color: #04052b;
+}
+.footer_col{
+  position: relative;
+  top: 30%;
+}
