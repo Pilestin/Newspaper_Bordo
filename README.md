@@ -16,12 +16,12 @@ Proje amacı veirlen CollectAPI linki üzerinden haber verilerine ulaşmak. Bu v
 ### Gereklilikler : 
 
 - [x] Git kullanımı 
-- [] Meteor.js 
-- [] Component kullanılması (Blaze? React) 
-- [] Modüler dosya sistemine uygun olması 
+- [x] Meteor.js 
+- [x] Component kullanılması (Blaze? React) 
+- [x] Modüler dosya sistemine uygun olması 
 - [x] Bootstrap kullanılması
 - [x] Fontawesome kullanılması
-- [ ] Kodun anlaşılır olması 
+- [x] Kodun anlaşılır olması 
 - [ ] Naming Conventions'a uyulması
 - [ ] Error response handling
 - [x] npm kullanılmalı, CDN kullanılmamalı
