@@ -2,6 +2,8 @@
 
 Bu proje Bordo Bilişim Developer Challange için yapılmaktadır (Staj)
 
+Raporu okumak ve kodlara erişmek için Notion linki :  https://dawn-squash-710.notion.site/dawn-squash-710/Bordo-Challange-1edb2de6bc464443b4d0db4cae59629a
+
 ## Proje Amacı : 
 
 Proje amacı veirlen CollectAPI linki üzerinden haber verilerine ulaşmak. Bu verileri düzgün bir şekilde filtreleyip bir web sitesi üzerinde göstermek
