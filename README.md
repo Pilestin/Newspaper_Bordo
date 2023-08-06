@@ -6,14 +6,14 @@ Raporu okumak ve kodlara erişmek için Notion linki :  [Notion ](https://dawn-s
 
 ## Proje Amacı : 
 
-Proje amacı veirlen CollectAPI linki üzerinden haber verilerine ulaşmak. Bu verileri düzgün bir şekilde filtreleyip bir web sitesi üzerinde göstermek
+Proje amacı veirlen CollectAPI linki üzerinden haber verilerine ulaşmaktır. Bu verileri düzgün bir şekilde filtreleyip bir web sitesi üzerinde göstermektir.
 
-## Kullanılacak Teknolojiler : 
+## KullanılanTeknolojiler : 
 
-* Web tarafında hem frontend hem de backend'i karşılamak için Meteor.js framework'ü kullanılacaktır.
-* Tasarım için figma esas alınacak, kodlama aşamasında Bootstrap kullanılacaktır.
-* Sürüm kontrol sistemi için Git, paylaşım için GitHub kullanılacaktır.
-* Proje raporlaması ve anlatımı Notion üzerinde yapılacaktır.
+* Web tarafında hem frontend hem de backend'i karşılamak için Meteor.js framework'ü kullanıldı.
+* Tasarım için figma esas alındı, kodlama aşamasında Bootstrap kullanıldı.
+* Sürüm kontrol sistemi için Git, paylaşım için GitHub kullanıldı.
+* Proje raporlaması ve anlatımı Notion üzerinde yapıldı.
   
 ### Gereklilikler : 
 
