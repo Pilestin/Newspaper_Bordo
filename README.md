@@ -2,7 +2,7 @@
 
 Bu proje Bordo Bilişim Developer Challange için yapılmaktadır (Staj)
 
-Raporu okumak ve kodlara erişmek için Notion linki :  https://dawn-squash-710.notion.site/dawn-squash-710/Bordo-Challange-1edb2de6bc464443b4d0db4cae59629a
+Raporu okumak ve kodlara erişmek için Notion linki :  [Notion ](https://dawn-squash-710.notion.site/Bordo-Challange-1edb2de6bc464443b4d0db4cae59629a?pvs=4)
 
 ## Proje Amacı : 
 
@@ -35,4 +35,11 @@ Proje amacı veirlen CollectAPI linki üzerinden haber verilerine ulaşmak. Bu v
 - Hatanın kullanıcıya gösterimi 
 - Deploy(dağıtım) -> Heroku , Dokku 
 - Unit Test 
-- Boilerplate code 
+- Boilerplate code
+
+Uygulama içerisinden görüntü : 
+
+<img src = "https://github.com/Pilestin/Newspaper_Bordo/assets/56133248/0e187576-5e6b-49e4-9d64-a0b37be9ad59" style="width:600px; height: 9-1000px">
+
+
+
